@@ -108,5 +108,44 @@
     "ip_address": null,
     "user_agent": null,
     "timestamp": "2025-07-31T08:40:50.402282"
+  },
+  {
+    "id": "c75a690e-fbba-41a7-80ea-6851aa22f9e7",
+    "user_id": "e3eaabec-14fd-43fe-85b3-e1f454f08070",
+    "action": "login",
+    "resource_type": "user",
+    "resource_id": "e3eaabec-14fd-43fe-85b3-e1f454f08070",
+    "details": {
+      "email": "admin@company.com"
+    },
+    "ip_address": null,
+    "user_agent": null,
+    "timestamp": "2025-07-31T08:56:22.261484"
+  },
+  {
+    "id": "f909410d-1a67-45fe-b2d3-d9da767a50cc",
+    "user_id": "e3eaabec-14fd-43fe-85b3-e1f454f08070",
+    "action": "login",
+    "resource_type": "user",
+    "resource_id": "e3eaabec-14fd-43fe-85b3-e1f454f08070",
+    "details": {
+      "email": "admin@company.com"
+    },
+    "ip_address": null,
+    "user_agent": null,
+    "timestamp": "2025-07-31T08:56:46.600159"
+  },
+  {
+    "id": "503c410e-5de8-4131-b7c3-b14993829a85",
+    "user_id": "e3eaabec-14fd-43fe-85b3-e1f454f08070",
+    "action": "login",
+    "resource_type": "user",
+    "resource_id": "e3eaabec-14fd-43fe-85b3-e1f454f08070",
+    "details": {
+      "email": "admin@company.com"
+    },
+    "ip_address": null,
+    "user_agent": null,
+    "timestamp": "2025-07-31T09:00:51.666427"
   }
 ]
