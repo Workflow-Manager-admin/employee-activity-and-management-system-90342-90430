@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "0091d36d-aed8-4744-b7c4-3ab4a776aa85",
+    "employee_id": "e3eaabec-14fd-43fe-85b3-e1f454f08070",
+    "start_date": "2025-08-01",
+    "end_date": "2025-08-02",
+    "leave_type": "vacation",
+    "reason": "Testing leave request functionality",
+    "status": "pending",
+    "manager_id": null,
+    "manager_comments": null,
+    "approved_by": null,
+    "approved_at": null,
+    "created_at": "2025-07-31T08:40:13.335782",
+    "updated_at": "2025-07-31T08:40:13.335787"
+  }
+]
