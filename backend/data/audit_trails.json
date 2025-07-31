@@ -1,0 +1,15 @@
+[
+  {
+    "id": "b7496a7c-6d9e-4f85-be71-498603d6cd8b",
+    "user_id": "e3eaabec-14fd-43fe-85b3-e1f454f08070",
+    "action": "login",
+    "resource_type": "user",
+    "resource_id": "e3eaabec-14fd-43fe-85b3-e1f454f08070",
+    "details": {
+      "email": "admin@company.com"
+    },
+    "ip_address": null,
+    "user_agent": null,
+    "timestamp": "2025-07-31T08:00:41.262211"
+  }
+]
