@@ -11,5 +11,31 @@
     "ip_address": null,
     "user_agent": null,
     "timestamp": "2025-07-31T08:00:41.262211"
+  },
+  {
+    "id": "881e432a-9ff9-4267-8bbb-a1ba505b9574",
+    "user_id": "e3eaabec-14fd-43fe-85b3-e1f454f08070",
+    "action": "login",
+    "resource_type": "user",
+    "resource_id": "e3eaabec-14fd-43fe-85b3-e1f454f08070",
+    "details": {
+      "email": "admin@company.com"
+    },
+    "ip_address": null,
+    "user_agent": null,
+    "timestamp": "2025-07-31T08:12:32.737060"
+  },
+  {
+    "id": "139d3a0b-96d9-4282-97d8-66399ee9ce01",
+    "user_id": "e3eaabec-14fd-43fe-85b3-e1f454f08070",
+    "action": "login",
+    "resource_type": "user",
+    "resource_id": "e3eaabec-14fd-43fe-85b3-e1f454f08070",
+    "details": {
+      "email": "admin@company.com"
+    },
+    "ip_address": null,
+    "user_agent": null,
+    "timestamp": "2025-07-31T08:15:20.035429"
   }
 ]
