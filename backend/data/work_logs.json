@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "30b5e75e-29fa-40c0-8b9b-df36f5eb65c0",
+    "employee_id": "e3eaabec-14fd-43fe-85b3-e1f454f08070",
+    "date": "2025-07-31",
+    "task_description": "Updated test work log",
+    "time_spent": 3.0,
+    "status": "completed",
+    "project": null,
+    "category": null,
+    "attachments": [],
+    "notes": null,
+    "manager_feedback": null,
+    "created_at": "2025-07-31T08:39:58.604363",
+    "updated_at": "2025-07-31T08:40:38.417872",
+    "can_edit": true
+  }
+]
